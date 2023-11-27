@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Klaus! 👋
 
-<!--
-**Kl4uz808/Kl4uz808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Beginner programmer currently exploring data structures, algorithms, and object-oriented programming.
 
-Here are some ideas to get you started:
+### 🖥️ Interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ * Backend Development
+
+### Languages and Tools ⚙️
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+
+📫 Reach me via Email: 
+- kl4uzd4rk@gmail.com
