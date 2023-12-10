@@ -1,6 +1,6 @@
 ### Hi there, I'm Klaus! 👋
 
-🌱 Beginner programmer currently exploring data structures, algorithms, and object-oriented programming.
+🌱 Beginner programmer
 
 ### 🖥️ Interested in:
 
