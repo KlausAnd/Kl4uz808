@@ -14,7 +14,6 @@
     <ul>
         <li>📚 I'm studying Computer Science at UFFS</li>
         <li>💻 Currently exploring algorithms and data structures</li>
-        <li>🌟 I'm excited about AI and look forward to expanding my understanding in the future!</li>
     </ul>
 </p>
 
